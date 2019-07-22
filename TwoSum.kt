@@ -63,7 +63,7 @@ fun twoSum(nums: List<Int>, target: Int):Boolean{
 
 /**
 * Time complexity : O(n)
-* Space complexity: O(n) because we are using hashmap and the time complexity for the hashmap is O(n)
+* Space complexity: O(n)
 */
 // private fun twoSum(nums: IntArray, target:Int):IntArray {
 
